@@ -1,7 +1,3 @@
-<p><strong>Quick highlights:</strong></p>
-
-<p>&nbsp;</p>
-
 <p>Hi!</p>
 
 <p>I&#39;m Md. Arafat Hossen</p>
